@@ -4,7 +4,7 @@ Welcome to the Readme Generator repository! This JavaScript application simplifi
 
 ## 👀 Have a look!
 
-![Presented usage](./assets/presentation.gif)
+![Presented usage](./assets/walkthrough.gif)
 
 ## 📝 Description
 
