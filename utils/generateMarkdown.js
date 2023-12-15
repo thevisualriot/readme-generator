@@ -86,6 +86,12 @@ function generateMarkdown(data) {
   ## Questions
   In case of any further question contact me at ${data.email} or visit my github account [@${data.username}](https://www.github.com/${data.username})
   
+  </br></br></br>
+  
+  ---
+  <span style="color: #899499;">*Created with <a href="https://github.com/thevisualriot/readme-generator" style="color: #ffa500;">Readme Generator</a> by <a href="https://www.github.com/thevisualriot" style="color: #ffa500;">The Visual Riot</a>.*</span>
+
+  
   `;
 }
 
