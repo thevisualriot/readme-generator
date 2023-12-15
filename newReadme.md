@@ -1,7 +1,13 @@
 
-  # ttle
+   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+   
+  # fsd
 
-  ## Table of Content
+
+  ## Description
+  fsd
+
+  ## Table of Contents
   - [Description](#description)
   - [Installation](#installation)
   - [Usage](#usage)
@@ -10,19 +16,17 @@
   - [Tests](#tests)
   - [Support](#support)
 
-  ## Description
-  fahjkffdkjhfdskjhdfkjldflkjdfs
   ## Installation
-  nmp i
+  f
   ## Usage
-  well wlell wlel
+  fds
   ## License
-  MIT
+  **MIT** 
   ## Contributing
-  no
+  fds
   ## Tests
   npm run test
-  ## Support
-  blabla
+  ## Questions and Support
+  In case of any further question contact me at fds or visit my github account [@dsa](https://www.github.com/dsa)
   
   

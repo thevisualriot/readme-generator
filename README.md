@@ -19,7 +19,7 @@ node index.js
 
 * As a developer, I want a README generator so that I can quickly create a professional README for a new project
 
-## Acceptance Criteria
+## Acceptance Criteria[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 * Create a command-line application that accepts user input.
   * When a user is prompted for information about the application repository then a high-quality, professional README.md is generated with:

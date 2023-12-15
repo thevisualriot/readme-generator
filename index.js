@@ -61,7 +61,7 @@ const runQuestion = () =>
                 type: "list",
                 name: "license",
                 message: questions[6],
-                choices: ["Apache License 2.0", "Creative Common Zero Universal", "GNU General Public License", "MIT", "None"],
+                choices: ["Apache License 2.0", "Boost", "Creative Commons", "GNU GPL v3", "MIT", "None"],
                 default: "None"
             },
             {
