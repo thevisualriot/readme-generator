@@ -50,7 +50,7 @@ const runQuestion = () =>
                 type: "input",
                 name: "installation",
                 message: questions[4],
-                default: "nmp i"
+                default: "nmp installation required"
             },
             {
                 type: "input",

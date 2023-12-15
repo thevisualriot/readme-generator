@@ -1,11 +1,9 @@
 
-   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-   
-  # fsd
-
+  [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+  # fjkfdskjlsdflkjsfdljkfsdjlk
 
   ## Description
-  fsd
+  kjfdsjkldopadoiajlksf
 
   ## Table of Contents
   - [Description](#description)
@@ -17,16 +15,16 @@
   - [Support](#support)
 
   ## Installation
-  f
+  lkajsdlkjsadaslkdjdsajlk
   ## Usage
-  fds
+  asdakljasdjlkasdjlkd
   ## License
-  **MIT** 
+  This repository adheres to the **Apache License 2.0**, offering permissive terms. Users are granted extensive permissions, enabling unrestricted utilization, modification, and distribution, accompanied by a provision for patent rights from contributors.
   ## Contributing
-  fds
+  lkjasdlkjsdajlkasdjkasld
   ## Tests
-  npm run test
-  ## Questions and Support
-  In case of any further question contact me at fds or visit my github account [@dsa](https://www.github.com/dsa)
+  To execute the testing suite, use: `npm run test`. This command will run the project's tests, allowing you to assess its functionality and ensure everything is in order.
+  ## Questions
+  In case of any further question contact me at fdkjfdsjkldsfjlkfds or visit my github account [@fjksfdsjkfds](https://www.github.com/fjksfdsjkfds)
   
   
