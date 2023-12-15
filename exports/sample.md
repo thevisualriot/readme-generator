@@ -17,7 +17,7 @@
   ## Installation
   To set up this project, ensure you have Node.js installed. Then, in your terminal, run: `npm install`. This command will fetch and install the necessary dependencies, getting you ready to dive into the project seamlessly.
   ## Usage
-  User after finishing repo, answers a few questions to generate a formatted, ready to use readme.md file
+  When user wants to generate a readme.md file for their repository, they can answer a few questions and generate a ready-to-use file
   ## License
   In adherence to the **MIT License**, this repository extends unmitigated freedom for usage, modification, and distribution. The license's simplicity and flexibility make it an appealing choice for various projects.
   ## Contributing
