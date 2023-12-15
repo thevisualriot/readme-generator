@@ -23,7 +23,7 @@ The Readme Generator simplifies the process of creating comprehensive README.md 
 
 2. Answer the prompted questions regarding your project, including details about your GitHub username, email, project name, description, installation process, usage examples, license preferences, contribution guidelines, and testing procedures.
 
-3. Once you've provided all the necessary information, the Readme Generator will generate a README.md file in the `./exports` directory of your project, containing a well-structured and customized README for your project.
+3. Once you've provided all the necessary information, the Readme Generator will generate a README.md file in the `./exports` folder in your project, containing a well-structured and customized README for your project.
 
 ## 📜 License
 

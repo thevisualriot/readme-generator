@@ -3,6 +3,8 @@ const path = require('path');
 const inquirer = require("inquirer");
 const generateMarkdown = require("./utils/generateMarkdown");
 
+const filePath = './exports/README.md';
+
 // array of questions for user
 const questions = [
     "What is your github username?",
@@ -82,7 +84,7 @@ const runQuestion = () =>
 // function to initialize program
 function init() {
     runQuestion()
-    .then((answers) => writeToFile("newReadme.md", generateMarkdown(answers)))
+    .then((answers) => writeToFile(filePath, generateMarkdown(answers)))
     .then(() => console.log("Readme generated!"))
     .catch((err) => console.log(err));
 };
